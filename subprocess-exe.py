@@ -52,5 +52,5 @@ def subprocess_returnvalue(cmdArgsList,rvKeyword):
         print e
 
 if __name__ == '__main__':
-    cmdList=['ping','google.com','-c','100']
+    cmdList=['ping','baidu.com','-c','100']
     print subprocess_returnvalue(cmdList,'time')
