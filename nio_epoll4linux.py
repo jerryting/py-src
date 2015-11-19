@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author: dj@ixinyou.com
+@author: jerry
 @version: v1
-@copyright:2014@xinyou Corp
+@copyright:2014@jerry.D
 
 
 @since: 2014-07-25
