@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-__author__ = 'dj@ixinyou.com'
+__author__ = 'jerry'
 __version__= 'v1'
-__copyright__ = '2014@xinyou Corp'
+__copyright__ = '2014@jerry.D'
 
 """
 @since: 2014-07-20
